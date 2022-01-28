@@ -1,0 +1,2 @@
+resource_id = "ami17373t8y728
+instance_type = "t2.micro"
